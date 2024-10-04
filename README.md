@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Thibaut Jouet</h1>  
 <h3 align="center">A front end developer from France</h3>  
   
-- 🌱 I’m currently working on my FrontEnd Expert certification **https://www.algoexpert.io/frontend/product**  
+- 🌱 I’m currently working on perfecting Laravel
   
-- 💬 Ask me about **React and my budding interest in python**  
+- 💬 Ask me about **React, VueJs and my budding interest in PHP**  
   
 - 📫 Reach me on **thibaut.jouet64@gmail.com**  
   
